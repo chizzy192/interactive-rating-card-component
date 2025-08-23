@@ -1,1 +1,0 @@
-# interactive-rating-card-component
