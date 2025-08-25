@@ -45,8 +45,8 @@ main {
     background-color: var(--grey-900);
     border-radius: clamp(1rem, 2vw, 2rem);
     box-shadow: 0px 1rem 1.7rem rgba(0, 0, 0, 0.1);
-    padding: clamp(1.6rem, 1.5vw, 1.7rem);
-    width: clamp(23rem, 30vw, 25rem);
+    padding: clamp(1.4rem, 1.5vw, 1.7rem);
+    width: clamp(22.5rem, 35vw, 25rem);
 }
 
 .rating-card {
